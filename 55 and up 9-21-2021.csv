@@ -1,0 +1,467 @@
+respid,state,state_name,usr,urbsurb_rural,gender,locations_genders,int_freq,Use_of_Internet,smartphone,computer,both_sp_and_comp,tablet,age,marital,education,employment,race,income,hh,homeintspeed,useintoccasionally
+194,53,WA,S,US,female,2,2,Several times a day,idk,yes,no,no,81,1,5,3,1,5,3,2,1
+100273,12,FL,R,R,female,1,2,Several times a day,no,no,no,yes,79,1,3,3,1,99,2,3,1
+101530,39,OH,R,R,female,1,4,Several times a week,no,no,no,yes,79,5,3,3,1,6,2,2,1
+100507,13,GA,S,US,female,2,2,Several times a day,no,no,no,yes,70,2,6,3,1,7,2,2,1
+74,36,NY,S,US,female,2,4,Several times a week,no,no,no,yes,57,5,3,4,2,1,1,2,1
+101049,53,WA,U,US,female,2,4,Several times a week,no,no,no,yes,90,5,5,3,1,98,8,2,1
+283,12,FL,R,R,female,1,4,Several times a week,no,yes,no,yes,78,5,5,4,1,5,1,2,1
+100976,12,FL,R,R,female,1,3,~1x a day,no,yes,no,no,71,1,3,6,1,98,2,2,1
+100776,17,IL,R,R,female,1,2,Several times a day,no,yes,no,no,78,5,7,3,1,99,1,2,1
+68,26,MI,R,R,female,1,2,Several times a day,no,yes,no,yes,62,1,8,2,1,99,3,2,1
+217,26,MI,R,R,female,1,2,Several times a day,no,yes,no,yes,72,5,7,3,1,4,1,2,1
+208,30,MT,R,R,female,1,5,<Several times a week,no,yes,no,no,57,1,3,6,1,99,2,2,1
+101737,36,NY,R,R,female,1,3,~1x a day,no,yes,no,yes,81,5,6,3,1,98,1,2,1
+101785,36,NY,R,R,female,1,2,Several times a day,no,yes,no,yes,72,1,5,3,1,7,2,2,1
+300126,37,NC,R,R,female,1,4,Several times a week,no,yes,no,yes,70,5,8,2,1,4,1,2,1
+100176,47,TN,R,R,female,1,5,<Several times a week,no,yes,no,yes,58,3,6,1,2,7,2,2,1
+35,48,TX,R,R,female,1,3,~1x a day,no,yes,no,no,67,1,3,3,1,6,2,2,1
+168,50,VT,R,R,female,1,5,<Several times a week,no,yes,no,yes,78,5,3,3,2,1,1,2,1
+175,54,WV,R,R,female,1,2,Several times a day,no,yes,no,no,65,3,3,3,1,2,1,2,1
+100365,55,WI,R,R,female,1,2,Several times a day,no,yes,no,no,73,5,5,3,5,3,1,2,1
+189,56,WY,R,R,female,1,3,~1x a day,no,yes,no,yes,85,1,3,3,1,98,2,2,1
+101517,6,CA,S,US,female,2,1,Almost constantly,no,yes,no,yes,60,1,3,2,1,6,2,2,1
+152,6,CA,U,US,female,2,3,~1x a day,no,yes,no,no,64,5,6,3,1,99,1,2,1
+198,6,CA,U,US,female,2,2,Several times a day,no,yes,no,no,72,1,3,3,1,4,2,2,1
+100051,9,CT,S,US,female,2,2,Several times a day,no,yes,no,yes,56,6,2,6,2,1,1,2,1
+100082,12,FL,S,US,female,2,4,Several times a week,no,yes,no,no,80,9,6,3,9,9,9,2,1
+289,13,GA,S,US,female,2,5,<Several times a week,no,yes,no,no,65,5,2,6,1,6,1,2,1
+101353,19,IA,U,US,female,2,3,~1x a day,no,yes,no,no,72,5,7,3,1,3,1,2,1
+252,24,MD,S,US,female,2,3,~1x a day,no,yes,no,no,71,3,6,3,1,3,2,2,1
+100160,25,MA,S,US,female,2,2,Several times a day,no,yes,no,yes,67,3,2,3,1,1,1,2,1
+100501,26,MI,S,US,female,2,2,Several times a day,no,yes,no,yes,55,1,6,3,1,5,2,2,1
+100987,27,MN,S,US,female,2,4,Several times a week,no,yes,no,no,66,1,4,3,1,2,2,2,1
+100674,35,NM,U,US,female,2,1,Almost constantly,no,yes,no,no,70,4,6,6,1,1,1,2,1
+101225,37,NC,S,US,female,2,2,Several times a day,no,yes,no,yes,72,1,3,3,1,3,2,2,1
+301,41,OR,S,US,female,2,4,Several times a week,no,yes,no,yes,78,5,4,3,1,3,1,2,1
+47,42,PA,S,US,female,2,2,Several times a day,no,yes,no,no,79,3,5,3,1,99,1,2,1
+101777,51,VA,S,US,female,2,8,idk,no,yes,no,no,58,1,3,1,2,2,3,2,1
+139,53,WA,U,US,female,2,2,Several times a day,no,yes,no,yes,67,3,4,3,1,3,2,2,1
+100407,53,WA,S,US,female,2,5,<Several times a week,no,yes,no,no,65,1,5,3,1,99,3,2,1
+100171,12,FL,R,R,male,3,2,Several times a day,no,yes,no,yes,79,1,6,3,1,8,2,2,1
+100643,18,IN,R,R,male,3,3,~1x a day,no,yes,no,yes,70,1,3,2,1,6,2,2,1
+218,23,ME,R,R,male,3,3,~1x a day,no,yes,no,no,71,1,4,3,1,4,2,2,1
+100666,32,NV,R,R,male,3,2,Several times a day,no,yes,no,yes,70,1,8,3,1,7,2,2,1
+290,33,NH,R,R,male,3,2,Several times a day,no,yes,no,no,86,1,6,3,1,3,2,2,1
+41,42,PA,R,R,male,3,4,Several times a week,no,yes,no,yes,64,1,5,1,1,7,2,2,1
+148,53,WA,R,R,male,3,2,Several times a day,no,yes,no,no,58,3,4,3,2,5,1,3,1
+197,6,CA,S,US,male,4,2,Several times a day,no,yes,no,no,69,6,6,3,1,99,1,2,1
+100434,6,CA,U,US,male,4,2,Several times a day,no,yes,no,no,58,1,6,6,1,4,3,2,1
+214,12,FL,S,US,male,4,2,Several times a day,no,yes,no,yes,55,1,6,3,1,7,2,2,1
+237,12,FL,S,US,male,4,2,Several times a day,no,yes,no,yes,66,1,8,3,1,9,1,2,1
+357,12,FL,U,US,male,4,2,Several times a day,no,yes,no,yes,63,1,7,3,1,2,3,3,1
+99,12,FL,S,US,male,4,2,Several times a day,no,yes,no,no,65,1,6,3,1,99,2,2,1
+346,17,IL,S,US,male,4,2,Several times a day,no,yes,no,no,62,3,6,3,1,5,1,2,1
+23,21,KY,U,US,male,4,2,Several times a day,no,yes,no,no,66,1,3,5,1,6,2,2,1
+210,25,MA,S,US,male,4,2,Several times a day,no,yes,no,no,62,1,6,3,1,7,2,2,1
+177,27,MN,S,US,male,4,3,~1x a day,no,yes,no,no,85,5,4,3,1,5,1,2,1
+100144,27,MN,S,US,male,4,4,Several times a week,no,yes,no,no,72,5,3,3,1,2,1,2,1
+100376,29,MO,S,US,male,4,2,Several times a day,no,yes,no,yes,58,1,3,1,1,5,3,2,1
+129,29,MO,S,US,male,4,3,~1x a day,no,yes,no,no,62,1,1,6,1,99,2,2,1
+100235,34,NJ,S,US,male,4,2,Several times a day,no,yes,no,no,77,1,4,3,1,99,3,2,1
+100580,34,NJ,S,US,male,4,2,Several times a day,no,yes,no,no,72,3,5,3,1,9,1,2,1
+100093,36,NY,U,US,male,4,1,Almost constantly,no,yes,no,yes,56,3,4,3,2,7,7,2,1
+100477,36,NY,U,US,male,4,4,Several times a week,no,yes,no,no,65,1,8,3,1,99,2,2,1
+101664,37,NC,U,US,male,4,4,Several times a week,no,yes,no,no,62,6,4,5,1,3,1,2,1
+100112,40,OK,U,US,male,4,5,<Several times a week,no,yes,no,no,64,1,3,3,1,99,3,2,1
+100097,42,PA,S,US,male,4,3,~1x a day,no,yes,no,no,59,6,6,3,1,1,2,2,1
+101735,42,PA,S,US,male,4,2,Several times a day,no,yes,no,no,61,6,5,1,2,3,1,3,1
+100616,45,SC,S,US,male,4,5,<Several times a week,no,yes,no,yes,72,5,3,3,1,6,1,2,1
+156,45,SC,S,US,male,4,2,Several times a day,no,yes,no,no,91,1,5,3,1,8,2,2,1
+100974,45,SC,U,US,male,4,2,Several times a day,no,yes,no,no,57,1,6,1,1,9,2,2,1
+101011,45,SC,U,US,male,4,3,~1x a day,no,yes,no,no,77,1,4,3,1,6,2,2,1
+100356,48,TX,S,US,male,4,2,Several times a day,no,yes,no,no,69,6,6,4,1,2,2,2,1
+100805,48,TX,U,US,male,4,3,~1x a day,no,yes,no,no,58,1,3,1,1,5,2,2,1
+300149,48,TX,U,US,male,4,2,Several times a day,no,yes,no,no,65,1,4,3,9,4,2,2,1
+89,55,WI,U,US,male,4,5,<Several times a week,no,yes,no,no,65,3,3,3,1,4,3,2,1
+343,30,MT,R,R,female,1,5,<Several times a week,refused,no,no,yes,59,1,2,4,1,1,4,2,1
+100122,1,AL,R,R,female,1,3,~1x a day,refused,yes,no,yes,60,3,4,6,1,2,4,2,1
+349,8,CO,R,R,female,1,4,Several times a week,refused,yes,no,no,57,4,5,1,1,99,1,2,1
+100059,21,KY,R,R,female,1,3,~1x a day,refused,yes,no,no,79,5,6,3,1,4,1,2,1
+101587,26,MI,R,R,female,1,1,Almost constantly,refused,yes,no,yes,55,1,5,4,1,98,2,2,1
+100254,26,MI,R,R,female,1,1,Almost constantly,refused,yes,no,no,58,1,7,1,1,6,3,2,1
+22,45,SC,S,US,female,2,5,<Several times a week,refused,yes,no,yes,82,3,3,3,1,2,3,2,1
+271,51,VA,R,R,male,3,2,Several times a day,refused,yes,no,no,70,1,3,3,1,6,2,2,1
+98,9,CT,S,US,male,4,1,Almost constantly,refused,yes,no,yes,83,5,6,3,1,99,1,2,1
+128,55,WI,S,US,male,4,1,Almost constantly,refused,yes,no,no,72,6,8,3,1,3,1,2,1
+100130,40,OK,R,R,female,1,2,Several times a day,yes,no,no,no,57,3,3,1,1,5,1,2,1
+100726,51,VA,R,R,female,1,2,Several times a day,yes,no,no,yes,74,5,3,3,1,5,1,2,1
+374,55,WI,R,R,female,1,4,Several times a week,yes,no,no,no,72,5,5,4,1,9,1,2,1
+100983,19,IA,S,US,female,2,2,Several times a day,yes,no,no,yes,59,1,6,1,1,8,2,2,1
+100579,25,MA,S,US,female,2,2,Several times a day,yes,no,no,no,71,3,6,3,1,6,1,2,1
+101453,29,MO,S,US,female,2,4,Several times a week,yes,no,no,yes,75,1,2,3,2,5,4,2,1
+101328,34,NJ,S,US,female,2,2,Several times a day,yes,no,no,yes,78,5,3,4,1,98,2,2,1
+100544,36,NY,S,US,female,2,3,~1x a day,yes,no,no,yes,57,1,6,1,1,6,4,2,1
+100020,37,NC,U,US,female,2,1,Almost constantly,yes,no,no,yes,58,2,6,3,1,5,1,2,1
+101252,37,NC,U,US,female,2,5,<Several times a week,yes,no,no,yes,62,4,2,3,1,1,1,2,1
+183,48,TX,S,US,female,2,1,Almost constantly,yes,no,no,no,56,1,3,1,1,99,2,2,1
+37,49,UT,S,US,female,2,3,~1x a day,yes,no,no,yes,70,2,8,3,2,9,3,2,1
+101742,9,CT,R,R,male,3,2,Several times a day,yes,no,no,yes,56,6,6,2,1,6,2,2,1
+101795,6,CA,U,US,male,4,2,Several times a day,yes,no,no,yes,57,1,3,1,1,5,3,2,1
+95,12,FL,U,US,male,4,2,Several times a day,yes,no,no,yes,71,3,6,3,1,5,3,2,1
+100652,24,MD,S,US,male,4,1,Almost constantly,yes,no,no,yes,56,1,7,3,2,8,2,2,1
+100285,25,MA,S,US,male,4,3,~1x a day,yes,no,no,yes,58,6,3,3,1,2,2,2,1
+100771,40,OK,S,US,male,4,3,~1x a day,yes,no,no,no,63,1,5,2,1,3,4,2,1
+101390,42,PA,S,US,male,4,2,Several times a day,yes,no,no,no,66,3,3,3,1,98,1,4,1
+339,55,WI,U,US,male,4,2,Several times a day,yes,no,no,yes,59,1,6,1,1,8,5,2,1
+100391,55,WI,S,US,male,4,2,Several times a day,yes,no,no,no,77,5,7,3,1,7,1,2,1
+100583,5,AR,R,R,female,1,2,Several times a day,yes,yes,yes,yes,73,1,4,3,1,9,2,2,1
+354,8,CO,R,R,female,1,2,Several times a day,yes,yes,yes,yes,58,1,7,1,1,9,3,2,1
+100400,8,CO,R,R,female,1,2,Several times a day,yes,yes,yes,yes,68,1,8,3,1,99,2,2,1
+101147,12,FL,R,R,female,1,2,Several times a day,yes,yes,yes,no,66,1,3,3,1,1,2,2,1
+100739,16,ID,R,R,female,1,1,Almost constantly,yes,yes,yes,no,83,3,8,1,1,7,3,2,1
+362,17,IL,R,R,female,1,1,Almost constantly,yes,yes,yes,no,57,1,7,1,1,8,5,2,1
+373,18,IN,R,R,female,1,2,Several times a day,yes,yes,yes,yes,73,1,8,3,1,7,2,2,1
+100723,18,IN,R,R,female,1,2,Several times a day,yes,yes,yes,yes,79,1,3,3,1,4,2,2,1
+30,19,IA,R,R,female,1,2,Several times a day,yes,yes,yes,yes,65,1,6,3,1,7,2,2,1
+101603,19,IA,R,R,female,1,2,Several times a day,yes,yes,yes,yes,69,3,3,3,1,3,1,2,1
+101688,20,KS,R,R,female,1,2,Several times a day,yes,yes,yes,yes,60,1,8,1,1,9,3,2,1
+202,21,KY,R,R,female,1,2,Several times a day,yes,yes,yes,yes,66,1,5,3,1,99,2,3,1
+312,21,KY,R,R,female,1,2,Several times a day,yes,yes,yes,yes,68,1,8,3,1,99,9,2,1
+100688,22,LA,R,R,female,1,3,~1x a day,yes,yes,yes,no,78,3,4,3,1,99,1,2,1
+101090,26,MI,R,R,female,1,2,Several times a day,yes,yes,yes,yes,65,1,7,1,1,6,2,2,1
+100375,27,MN,R,R,female,1,5,<Several times a week,yes,yes,yes,yes,82,5,6,4,1,9,1,2,1
+178,27,MN,R,R,female,1,1,Almost constantly,yes,yes,yes,no,72,9,4,3,7,6,2,2,1
+100578,27,MN,R,R,female,1,2,Several times a day,yes,yes,yes,no,83,5,6,3,9,6,1,2,1
+100394,28,MS,R,R,female,1,5,<Several times a week,yes,yes,yes,no,74,5,3,1,1,5,4,2,1
+101699,31,NE,R,R,female,1,2,Several times a day,yes,yes,yes,yes,65,1,5,1,1,9,2,2,1
+101748,36,NY,R,R,female,1,2,Several times a day,yes,yes,yes,yes,65,1,6,1,2,9,2,2,1
+272,37,NC,R,R,female,1,1,Almost constantly,yes,yes,yes,yes,66,1,7,1,1,99,2,2,1
+304,37,NC,R,R,female,1,2,Several times a day,yes,yes,yes,yes,62,1,3,3,1,6,2,2,1
+100460,37,NC,R,R,female,1,2,Several times a day,yes,yes,yes,yes,66,1,3,3,1,6,3,2,1
+100869,38,ND,R,R,female,1,1,Almost constantly,yes,yes,yes,yes,65,1,6,3,1,9,2,2,1
+101489,40,OK,R,R,female,1,1,Almost constantly,yes,yes,yes,yes,71,1,6,1,1,9,2,2,1
+100605,41,OR,R,R,female,1,1,Almost constantly,yes,yes,yes,yes,60,1,6,1,1,9,2,2,1
+100898,41,OR,R,R,female,1,2,Several times a day,yes,yes,yes,yes,85,3,4,3,1,2,1,2,1
+101553,41,OR,R,R,female,1,3,~1x a day,yes,yes,yes,yes,71,1,6,3,1,2,2,2,1
+278,41,OR,R,R,female,1,2,Several times a day,yes,yes,yes,no,63,3,4,3,1,9,1,2,1
+53,42,PA,R,R,female,1,2,Several times a day,yes,yes,yes,no,70,1,4,3,1,7,2,2,1
+100174,47,TN,R,R,female,1,2,Several times a day,yes,yes,yes,yes,71,1,7,3,1,6,2,2,1
+101534,47,TN,R,R,female,1,2,Several times a day,yes,yes,yes,yes,64,1,8,3,1,99,2,2,1
+242,48,TX,R,R,female,1,1,Almost constantly,yes,yes,yes,yes,68,3,6,3,1,9,2,2,1
+101755,48,TX,R,R,female,1,2,Several times a day,yes,yes,yes,no,56,1,5,1,1,8,2,2,1
+325,49,UT,R,R,female,1,3,~1x a day,yes,yes,yes,yes,56,1,4,6,1,6,5,2,1
+101385,1,AL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,55,1,4,5,1,8,3,2,1
+101039,2,AK,S,US,female,2,2,Several times a day,yes,yes,yes,no,57,5,3,1,1,3,3,2,1
+100409,4,AZ,U,US,female,2,2,Several times a day,yes,yes,yes,no,77,1,8,3,1,9,2,2,1
+286,6,CA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,63,1,4,3,9,8,3,2,1
+101050,6,CA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,67,1,6,3,1,7,2,2,1
+101052,6,CA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,69,5,6,3,1,6,2,2,1
+101163,6,CA,S,US,female,2,3,~1x a day,yes,yes,yes,yes,68,3,3,3,1,5,1,2,1
+101678,6,CA,S,US,female,2,3,~1x a day,yes,yes,yes,yes,75,5,5,3,1,6,3,2,1
+300123,6,CA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,73,5,3,2,1,3,1,2,1
+287,6,CA,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,62,5,6,1,1,7,5,2,1
+101159,6,CA,U,US,female,2,4,Several times a week,yes,yes,yes,yes,59,2,2,1,2,3,2,2,1
+101447,6,CA,U,US,female,2,2,Several times a day,yes,yes,yes,yes,72,1,7,3,1,6,2,2,1
+336,6,CA,S,US,female,2,1,Almost constantly,yes,yes,yes,no,60,1,6,2,1,99,3,2,1
+359,6,CA,U,US,female,2,4,Several times a week,yes,yes,yes,no,56,3,3,3,1,5,3,2,1
+101457,8,CO,S,US,female,2,2,Several times a day,yes,yes,yes,yes,67,1,6,3,1,8,2,2,1
+101045,8,CO,U,US,female,2,2,Several times a day,yes,yes,yes,no,70,2,3,3,1,4,2,2,1
+352,9,CT,S,US,female,2,3,~1x a day,yes,yes,yes,yes,69,1,4,2,1,8,2,4,1
+101771,9,CT,S,US,female,2,2,Several times a day,yes,yes,yes,no,76,3,5,2,1,99,1,2,1
+101578,11,DC,U,US,female,2,5,<Several times a week,yes,yes,yes,yes,66,2,5,3,1,3,4,2,1
+51,12,FL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,76,3,6,3,1,3,1,2,1
+52,12,FL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,64,1,8,3,1,9,2,2,1
+230,12,FL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,74,6,7,2,1,6,1,2,1
+251,12,FL,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,64,3,6,1,1,7,1,2,1
+100531,12,FL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,57,1,6,3,1,8,2,2,1
+100626,12,FL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,71,1,6,4,1,9,2,2,1
+101246,12,FL,S,US,female,2,3,~1x a day,yes,yes,yes,yes,66,1,3,3,1,5,3,2,1
+100466,12,FL,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,55,3,3,1,1,8,2,2,1
+101335,12,FL,U,US,female,2,2,Several times a day,yes,yes,yes,yes,58,1,3,5,1,6,2,2,1
+101498,12,FL,U,US,female,2,2,Several times a day,yes,yes,yes,yes,74,3,5,3,1,99,1,2,1
+300121,12,FL,U,US,female,2,2,Several times a day,yes,yes,yes,yes,58,1,6,2,1,99,3,2,1
+387,12,FL,S,US,female,2,2,Several times a day,yes,yes,yes,no,64,1,6,5,1,3,2,2,1
+100314,12,FL,U,US,female,2,1,Almost constantly,yes,yes,yes,no,59,4,6,1,1,7,1,2,1
+100564,12,FL,U,US,female,2,3,~1x a day,yes,yes,yes,no,71,3,7,2,1,4,1,2,1
+101207,13,GA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,58,1,4,1,1,9,2,2,1
+101187,13,GA,U,US,female,2,2,Several times a day,yes,yes,yes,yes,67,6,8,3,1,99,1,2,1
+100618,13,GA,S,US,female,2,2,Several times a day,yes,yes,yes,no,62,1,6,1,1,9,2,2,1
+100958,13,GA,S,US,female,2,3,~1x a day,yes,yes,yes,no,73,3,5,3,1,4,1,2,1
+100955,17,IL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,57,1,5,4,1,7,3,2,1
+101139,17,IL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,60,1,6,3,9,99,5,2,1
+101695,17,IL,S,US,female,2,2,Several times a day,yes,yes,yes,yes,60,3,4,6,1,3,1,2,1
+363,17,IL,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,56,3,6,3,1,2,1,2,1
+100385,17,IL,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,69,1,8,2,1,8,2,2,1
+101632,17,IL,S,US,female,2,2,Several times a day,yes,yes,yes,no,56,1,6,1,1,7,3,2,1
+100363,17,IL,U,US,female,2,2,Several times a day,yes,yes,yes,no,66,1,5,2,1,3,2,2,1
+100534,18,IN,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,60,2,6,1,1,7,2,2,1
+100731,18,IN,U,US,female,2,2,Several times a day,yes,yes,yes,yes,58,1,3,1,1,7,2,2,1
+100790,18,IN,S,US,female,2,4,Several times a week,yes,yes,yes,no,65,1,4,4,1,5,3,2,1
+221,19,IA,S,US,female,2,2,Several times a day,yes,yes,yes,no,70,5,3,3,1,99,1,2,1
+100866,19,IA,U,US,female,2,4,Several times a week,yes,yes,yes,no,79,1,4,3,1,9,3,2,1
+100946,21,KY,S,US,female,2,2,Several times a day,yes,yes,yes,yes,55,2,8,3,1,5,2,2,1
+236,21,KY,U,US,female,2,2,Several times a day,yes,yes,yes,yes,69,3,7,3,1,2,1,2,1
+101122,21,KY,U,US,female,2,2,Several times a day,yes,yes,yes,yes,57,2,4,1,1,6,3,2,1
+100843,22,LA,U,US,female,2,3,~1x a day,yes,yes,yes,no,72,5,4,3,1,4,1,2,1
+100998,22,LA,U,US,female,2,2,Several times a day,yes,yes,yes,no,60,3,6,1,9,5,2,2,1
+100733,23,ME,S,US,female,2,3,~1x a day,yes,yes,yes,yes,59,3,4,6,1,99,2,2,1
+101217,23,ME,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,67,6,6,1,1,6,1,2,1
+100909,24,MD,S,US,female,2,2,Several times a day,yes,yes,yes,yes,57,1,6,2,1,7,4,2,1
+381,24,MD,S,US,female,2,2,Several times a day,yes,yes,yes,no,83,5,4,3,1,4,1,2,1
+157,25,MA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,66,6,5,3,1,4,1,2,1
+234,25,MA,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,57,1,6,1,1,9,2,2,1
+100750,25,MA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,61,1,6,3,8,7,4,2,1
+300175,25,MA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,66,1,6,3,7,9,2,2,1
+100294,25,MA,S,US,female,2,2,Several times a day,yes,yes,yes,no,68,1,2,3,1,5,1,2,1
+100615,25,MA,S,US,female,2,2,Several times a day,yes,yes,yes,no,57,6,8,1,2,7,1,2,1
+11,26,MI,S,US,female,2,2,Several times a day,yes,yes,yes,yes,77,3,7,5,1,7,2,2,1
+17,26,MI,S,US,female,2,4,Several times a week,yes,yes,yes,yes,83,1,6,5,1,99,2,2,1
+100918,26,MI,S,US,female,2,2,Several times a day,yes,yes,yes,yes,65,3,4,1,1,6,1,2,1
+101264,26,MI,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,60,4,2,8,1,1,3,2,1
+101689,26,MI,S,US,female,2,2,Several times a day,yes,yes,yes,yes,73,1,5,2,1,9,2,2,1
+100031,26,MI,S,US,female,2,2,Several times a day,yes,yes,yes,no,70,9,6,3,1,99,1,2,1
+101112,26,MI,S,US,female,2,2,Several times a day,yes,yes,yes,no,63,1,8,3,1,7,2,2,1
+101547,27,MN,S,US,female,2,2,Several times a day,yes,yes,yes,yes,67,1,7,3,1,7,2,2,1
+101703,27,MN,S,US,female,2,2,Several times a day,yes,yes,yes,yes,69,1,7,3,1,4,2,2,1
+81,27,MN,U,US,female,2,2,Several times a day,yes,yes,yes,yes,59,1,5,4,1,7,2,2,1
+100327,27,MN,U,US,female,2,3,~1x a day,yes,yes,yes,no,71,5,4,3,1,3,1,2,1
+310,28,MS,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,62,1,8,1,1,9,2,2,1
+371,28,MS,U,US,female,2,2,Several times a day,yes,yes,yes,no,60,1,6,2,1,1,2,2,1
+100698,29,MO,S,US,female,2,2,Several times a day,yes,yes,yes,yes,70,1,4,3,1,99,2,2,1
+101146,29,MO,S,US,female,2,2,Several times a day,yes,yes,yes,no,61,1,5,8,1,8,2,2,1
+90,32,NV,U,US,female,2,2,Several times a day,yes,yes,yes,yes,72,1,4,3,1,6,2,2,1
+49,33,NH,S,US,female,2,2,Several times a day,yes,yes,yes,yes,60,1,5,3,1,5,2,2,1
+229,33,NH,S,US,female,2,3,~1x a day,yes,yes,yes,no,65,5,4,1,1,5,1,2,1
+100489,34,NJ,S,US,female,2,2,Several times a day,yes,yes,yes,yes,70,6,7,3,1,4,1,2,1
+101220,34,NJ,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,62,1,8,2,1,9,2,2,1
+76,34,NJ,S,US,female,2,2,Several times a day,yes,yes,yes,no,71,5,7,3,1,99,1,2,1
+100450,34,NJ,S,US,female,2,2,Several times a day,yes,yes,yes,no,70,1,6,3,1,6,2,2,1
+101525,34,NJ,S,US,female,2,2,Several times a day,yes,yes,yes,no,55,3,5,1,1,2,3,2,1
+100161,36,NY,S,US,female,2,2,Several times a day,yes,yes,yes,yes,64,6,8,1,2,7,1,2,1
+100150,36,NY,U,US,female,2,2,Several times a day,yes,yes,yes,yes,78,5,6,3,2,99,1,2,1
+100727,36,NY,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,55,1,6,1,2,8,3,2,1
+101334,36,NY,U,US,female,2,2,Several times a day,yes,yes,yes,yes,55,3,6,1,1,6,3,2,1
+300061,36,NY,U,US,female,2,2,Several times a day,yes,yes,yes,yes,73,1,6,3,1,99,2,2,1
+100632,36,NY,S,US,female,2,2,Several times a day,yes,yes,yes,no,75,1,5,3,1,4,2,2,1
+100913,36,NY,S,US,female,2,5,<Several times a week,yes,yes,yes,no,72,5,6,3,1,4,2,2,1
+18,37,NC,S,US,female,2,2,Several times a day,yes,yes,yes,yes,78,1,5,3,1,8,7,2,1
+75,37,NC,S,US,female,2,2,Several times a day,yes,yes,yes,yes,64,1,6,3,1,7,2,2,1
+100001,37,NC,S,US,female,2,2,Several times a day,yes,yes,yes,yes,70,2,4,3,1,9,3,3,1
+100095,37,NC,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,77,5,6,3,1,4,1,2,1
+358,37,NC,U,US,female,2,2,Several times a day,yes,yes,yes,no,56,1,7,1,1,9,2,2,1
+111,39,OH,S,US,female,2,4,Several times a week,yes,yes,yes,yes,63,1,3,2,1,99,2,2,1
+199,39,OH,S,US,female,2,2,Several times a day,yes,yes,yes,yes,65,1,5,3,1,9,2,2,1
+100597,39,OH,S,US,female,2,2,Several times a day,yes,yes,yes,yes,61,1,6,2,1,7,3,2,1
+100860,39,OH,S,US,female,2,2,Several times a day,yes,yes,yes,yes,66,1,4,3,1,6,3,2,1
+100947,39,OH,S,US,female,2,2,Several times a day,yes,yes,yes,yes,62,1,5,6,1,6,3,2,1
+101097,39,OH,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,58,1,3,4,1,5,5,2,1
+101113,39,OH,U,US,female,2,2,Several times a day,yes,yes,yes,yes,61,3,5,2,2,4,1,2,1
+100596,40,OK,S,US,female,2,2,Several times a day,yes,yes,yes,yes,63,1,3,1,1,7,5,2,1
+100691,40,OK,S,US,female,2,2,Several times a day,yes,yes,yes,yes,62,1,8,3,1,8,2,2,1
+100646,41,OR,S,US,female,2,2,Several times a day,yes,yes,yes,yes,66,1,7,1,1,9,2,2,1
+101704,41,OR,S,US,female,2,2,Several times a day,yes,yes,yes,yes,67,1,4,3,1,9,2,2,1
+338,41,OR,U,US,female,2,2,Several times a day,yes,yes,yes,yes,62,1,6,2,1,6,2,2,1
+101294,41,OR,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,59,1,7,1,1,9,2,2,1
+300102,41,OR,U,US,female,2,2,Several times a day,yes,yes,yes,yes,70,1,6,3,1,8,2,2,1
+266,42,PA,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,61,1,3,1,1,7,2,2,1
+100159,42,PA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,57,1,8,1,1,9,3,2,1
+100938,42,PA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,55,1,6,1,1,7,3,2,1
+100701,42,PA,U,US,female,2,2,Several times a day,yes,yes,yes,yes,72,4,4,3,1,6,2,2,1
+100078,45,SC,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,68,1,6,3,1,9,2,2,1
+100237,45,SC,S,US,female,2,2,Several times a day,yes,yes,yes,no,62,5,4,3,1,5,6,2,1
+101665,45,SC,S,US,female,2,2,Several times a day,yes,yes,yes,no,81,5,6,8,1,4,1,2,1
+86,47,TN,S,US,female,2,2,Several times a day,yes,yes,yes,yes,70,1,4,3,1,8,2,2,1
+100953,47,TN,S,US,female,2,2,Several times a day,yes,yes,yes,yes,65,1,8,3,1,7,2,2,1
+101624,47,TN,S,US,female,2,2,Several times a day,yes,yes,yes,yes,64,1,5,2,1,99,2,2,1
+72,47,TN,U,US,female,2,2,Several times a day,yes,yes,yes,yes,60,1,4,5,1,7,4,2,1
+321,47,TN,S,US,female,2,2,Several times a day,yes,yes,yes,no,65,3,6,3,1,99,1,2,1
+101485,47,TN,U,US,female,2,3,~1x a day,yes,yes,yes,no,55,5,5,1,1,3,2,2,1
+293,48,TX,S,US,female,2,2,Several times a day,yes,yes,yes,yes,64,1,5,1,1,8,2,2,1
+100794,48,TX,S,US,female,2,2,Several times a day,yes,yes,yes,yes,64,1,6,5,1,6,2,2,1
+100988,48,TX,S,US,female,2,2,Several times a day,yes,yes,yes,yes,60,1,6,4,1,4,2,2,1
+101135,48,TX,S,US,female,2,2,Several times a day,yes,yes,yes,yes,60,1,4,5,1,9,2,2,1
+239,48,TX,U,US,female,2,4,Several times a week,yes,yes,yes,yes,84,1,4,4,1,7,2,2,1
+100117,48,TX,U,US,female,2,2,Several times a day,yes,yes,yes,yes,64,1,8,3,1,6,2,2,1
+137,49,UT,S,US,female,2,2,Several times a day,yes,yes,yes,yes,71,1,5,3,1,6,2,2,1
+101416,49,UT,S,US,female,2,2,Several times a day,yes,yes,yes,yes,67,1,7,3,1,98,2,2,1
+105,51,VA,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,60,1,4,3,1,9,2,2,1
+253,51,VA,U,US,female,2,2,Several times a day,yes,yes,yes,yes,76,1,7,1,1,99,2,2,1
+225,53,WA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,55,1,6,1,1,99,3,2,1
+247,53,WA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,60,3,6,1,1,6,2,2,1
+100403,53,WA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,67,3,6,1,1,6,1,2,1
+100608,53,WA,S,US,female,2,2,Several times a day,yes,yes,yes,yes,56,1,5,4,1,99,2,2,1
+101679,53,WA,S,US,female,2,1,Almost constantly,yes,yes,yes,yes,66,1,7,2,1,8,2,2,1
+149,53,WA,S,US,female,2,2,Several times a day,yes,yes,yes,no,75,5,7,3,1,99,1,2,1
+100303,54,WV,S,US,female,2,2,Several times a day,yes,yes,yes,no,68,1,8,3,1,9,3,2,1
+101006,55,WI,S,US,female,2,2,Several times a day,yes,yes,yes,yes,68,1,6,3,1,5,2,2,1
+100105,55,WI,U,US,female,2,1,Almost constantly,yes,yes,yes,yes,62,1,4,6,1,5,2,2,1
+101288,2,AK,R,R,male,3,2,Several times a day,yes,yes,yes,yes,65,1,7,1,1,9,3,2,1
+100807,5,AR,R,R,male,3,3,~1x a day,yes,yes,yes,yes,82,1,3,3,2,7,2,2,1
+100331,5,AR,R,R,male,3,2,Several times a day,yes,yes,yes,no,72,1,6,3,1,9,2,2,1
+102,11,DC,R,R,male,3,2,Several times a day,yes,yes,yes,yes,55,1,3,1,1,9,3,2,1
+100653,12,FL,R,R,male,3,2,Several times a day,yes,yes,yes,yes,67,1,3,1,1,5,2,2,1
+100328,15,HI,R,R,male,3,2,Several times a day,yes,yes,yes,yes,55,1,3,1,1,99,9,2,1
+187,19,IA,R,R,male,3,2,Several times a day,yes,yes,yes,yes,65,1,6,99,9,99,9,2,1
+16,26,MI,R,R,male,3,2,Several times a day,yes,yes,yes,yes,56,1,4,1,1,8,2,2,1
+100661,28,MS,R,R,male,3,3,~1x a day,yes,yes,yes,yes,58,6,6,4,1,3,2,2,1
+100664,29,MO,R,R,male,3,2,Several times a day,yes,yes,yes,yes,65,1,6,3,1,7,4,2,1
+135,30,MT,R,R,male,3,1,Almost constantly,yes,yes,yes,yes,56,1,5,1,1,9,2,3,1
+66,39,OH,R,R,male,3,1,Almost constantly,yes,yes,yes,yes,60,1,8,1,3,9,3,2,1
+69,39,OH,R,R,male,3,2,Several times a day,yes,yes,yes,yes,71,2,6,3,1,99,9,2,1
+161,42,PA,R,R,male,3,2,Several times a day,yes,yes,yes,yes,62,5,8,2,1,9,1,2,1
+100399,49,UT,R,R,male,3,2,Several times a day,yes,yes,yes,yes,63,1,5,3,1,5,2,2,1
+100348,55,WI,R,R,male,3,2,Several times a day,yes,yes,yes,yes,56,1,5,1,1,8,4,2,1
+101256,1,AL,S,US,male,4,3,~1x a day,yes,yes,yes,yes,57,6,3,3,1,4,1,2,1
+100264,1,AL,U,US,male,4,2,Several times a day,yes,yes,yes,yes,61,3,6,1,1,8,3,2,1
+241,1,AL,U,US,male,4,2,Several times a day,yes,yes,yes,no,81,1,8,3,1,7,2,2,1
+281,4,AZ,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,59,1,6,1,1,2,5,2,1
+300141,4,AZ,S,US,male,4,4,Several times a week,yes,yes,yes,yes,59,1,5,1,1,7,2,2,1
+284,4,AZ,U,US,male,4,2,Several times a day,yes,yes,yes,yes,66,1,6,2,1,5,2,2,1
+100982,4,AZ,S,US,male,4,1,Almost constantly,yes,yes,yes,no,57,1,7,1,1,9,2,2,1
+38,4,AZ,U,US,male,4,2,Several times a day,yes,yes,yes,no,56,1,6,1,1,9,5,2,1
+101510,4,AZ,U,US,male,4,2,Several times a day,yes,yes,yes,no,68,1,4,3,1,4,5,2,1
+279,6,CA,S,US,male,4,3,~1x a day,yes,yes,yes,yes,88,5,4,3,1,9,1,2,1
+100746,6,CA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,70,3,6,3,2,6,3,2,1
+101295,6,CA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,75,1,6,3,1,98,2,2,1
+101552,6,CA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,70,1,6,1,1,9,2,2,1
+100413,6,CA,U,US,male,4,2,Several times a day,yes,yes,yes,yes,73,1,7,3,1,8,2,2,1
+100609,6,CA,U,US,male,4,2,Several times a day,yes,yes,yes,yes,66,1,7,2,1,7,2,2,1
+101606,6,CA,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,58,3,5,1,1,7,2,2,1
+100445,6,CA,S,US,male,4,1,Almost constantly,yes,yes,yes,no,57,1,6,4,1,6,2,2,1
+101036,6,CA,S,US,male,4,2,Several times a day,yes,yes,yes,no,58,1,7,1,1,9,2,2,1
+101809,6,CA,S,US,male,4,2,Several times a day,yes,yes,yes,no,56,1,6,1,1,9,2,2,1
+300194,6,CA,S,US,male,4,2,Several times a day,yes,yes,yes,no,56,1,6,1,1,6,3,2,1
+300125,6,CA,U,US,male,4,2,Several times a day,yes,yes,yes,no,67,1,7,1,1,9,2,2,1
+101414,8,CO,S,US,male,4,2,Several times a day,yes,yes,yes,yes,64,1,7,3,3,5,4,2,1
+101047,8,CO,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,71,3,4,3,2,99,1,2,1
+100675,8,CO,U,US,male,4,4,Several times a week,yes,yes,yes,no,61,1,2,1,1,7,7,2,1
+100966,9,CT,S,US,male,4,2,Several times a day,yes,yes,yes,yes,55,1,3,1,1,6,3,2,1
+216,9,CT,U,US,male,4,2,Several times a day,yes,yes,yes,yes,58,3,4,1,1,7,1,2,1
+361,9,CT,U,US,male,4,2,Several times a day,yes,yes,yes,yes,72,1,7,3,1,7,2,2,1
+100474,9,CT,S,US,male,4,2,Several times a day,yes,yes,yes,no,62,1,3,3,1,6,2,2,1
+55,12,FL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,55,1,6,3,1,99,2,2,1
+356,12,FL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,82,4,6,3,1,3,2,2,1
+100465,12,FL,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,55,6,6,1,1,8,1,2,1
+300039,12,FL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,6,3,1,9,3,2,1
+96,12,FL,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,59,1,7,1,1,7,2,2,1
+42,12,FL,S,US,male,4,2,Several times a day,yes,yes,yes,no,61,1,4,3,1,8,3,2,1
+100304,12,FL,S,US,male,4,2,Several times a day,yes,yes,yes,no,68,1,6,3,1,7,2,2,1
+101619,12,FL,S,US,male,4,1,Almost constantly,yes,yes,yes,no,63,1,5,1,1,8,2,2,1
+300138,12,FL,S,US,male,4,4,Several times a week,yes,yes,yes,no,66,1,7,6,1,3,3,2,1
+100142,12,FL,U,US,male,4,1,Almost constantly,yes,yes,yes,no,65,1,6,1,3,8,2,2,1
+100248,12,FL,U,US,male,4,3,~1x a day,yes,yes,yes,no,71,1,3,3,1,5,2,2,1
+101116,12,FL,U,US,male,4,1,Almost constantly,yes,yes,yes,no,63,1,7,1,1,6,2,2,1
+201,13,GA,S,US,male,4,3,~1x a day,yes,yes,yes,yes,58,1,4,1,1,6,2,2,1
+100517,13,GA,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,57,1,6,1,1,6,4,2,1
+100919,13,GA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,69,5,4,1,1,7,1,2,1
+101095,13,GA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,83,4,6,3,1,3,3,2,1
+341,13,GA,S,US,male,4,1,Almost constantly,yes,yes,yes,no,61,1,3,1,1,6,3,2,1
+100636,16,ID,S,US,male,4,2,Several times a day,yes,yes,yes,no,55,1,6,1,1,9,3,2,1
+101168,16,ID,S,US,male,4,2,Several times a day,yes,yes,yes,no,58,1,8,1,1,8,2,2,1
+100714,16,ID,U,US,male,4,2,Several times a day,yes,yes,yes,no,60,4,6,1,1,9,1,2,1
+295,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,68,1,6,3,1,8,2,2,1
+318,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,78,1,6,3,5,7,2,3,1
+100647,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,56,1,6,2,1,4,2,2,1
+100654,17,IL,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,66,1,4,1,1,9,4,2,1
+100693,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,59,1,3,1,7,99,3,2,1
+101274,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,yes,57,1,6,3,1,9,2,2,1
+320,17,IL,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,71,1,6,3,1,8,2,2,1
+275,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,no,69,1,7,2,1,2,1,2,1
+101684,17,IL,S,US,male,4,2,Several times a day,yes,yes,yes,no,60,1,7,1,1,8,2,2,1
+101566,17,IL,U,US,male,4,2,Several times a day,yes,yes,yes,no,55,1,6,1,1,9,3,2,1
+101569,18,IN,S,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,5,1,1,9,6,2,1
+100354,18,IN,U,US,male,4,3,~1x a day,yes,yes,yes,yes,84,5,6,3,1,5,1,2,1
+10,18,IN,S,US,male,4,2,Several times a day,yes,yes,yes,no,70,1,6,3,1,99,2,2,1
+101543,19,IA,U,US,male,4,2,Several times a day,yes,yes,yes,yes,55,5,5,3,1,4,2,2,1
+100324,20,KS,S,US,male,4,2,Several times a day,yes,yes,yes,yes,55,3,4,2,1,3,1,2,1
+100114,20,KS,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,68,6,7,3,1,7,1,2,1
+240,20,KS,U,US,male,4,2,Several times a day,yes,yes,yes,no,69,1,8,3,1,8,2,2,1
+100989,21,KY,U,US,male,4,2,Several times a day,yes,yes,yes,yes,65,4,3,4,1,7,2,2,1
+20,21,KY,U,US,male,4,2,Several times a day,yes,yes,yes,no,74,3,6,3,1,3,1,2,1
+345,24,MD,S,US,male,4,2,Several times a day,yes,yes,yes,yes,69,1,6,3,1,7,2,2,1
+100054,24,MD,S,US,male,4,4,Several times a week,yes,yes,yes,yes,64,1,8,1,1,6,2,2,1
+369,24,MD,U,US,male,4,3,~1x a day,yes,yes,yes,yes,68,1,6,3,1,4,2,2,1
+101358,24,MD,U,US,male,4,2,Several times a day,yes,yes,yes,yes,65,1,4,1,1,8,3,2,1
+100027,24,MD,U,US,male,4,2,Several times a day,yes,yes,yes,no,57,3,3,3,1,5,1,2,1
+211,25,MA,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,59,1,6,1,1,99,3,2,1
+331,25,MA,U,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,7,1,1,9,3,2,1
+100622,25,MA,S,US,male,4,2,Several times a day,yes,yes,yes,no,58,1,6,1,1,5,4,2,1
+101194,25,MA,S,US,male,4,2,Several times a day,yes,yes,yes,no,63,3,6,5,1,99,1,2,1
+21,26,MI,S,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,8,1,1,9,2,2,1
+62,26,MI,S,US,male,4,2,Several times a day,yes,yes,yes,yes,70,1,6,3,2,3,4,2,1
+313,26,MI,S,US,male,4,2,Several times a day,yes,yes,yes,yes,65,1,6,3,9,8,2,2,1
+100826,26,MI,S,US,male,4,2,Several times a day,yes,yes,yes,yes,58,1,8,1,1,9,2,2,1
+100077,26,MI,U,US,male,4,4,Several times a week,yes,yes,yes,yes,56,1,2,5,1,6,3,2,1
+100158,26,MI,U,US,male,4,2,Several times a day,yes,yes,yes,yes,55,1,7,1,1,9,3,2,1
+100633,26,MI,U,US,male,4,4,Several times a week,yes,yes,yes,yes,68,1,5,3,1,4,2,3,1
+100478,26,MI,S,US,male,4,3,~1x a day,yes,yes,yes,no,58,2,5,6,1,5,2,2,1
+100735,26,MI,U,US,male,4,2,Several times a day,yes,yes,yes,no,73,1,4,1,1,6,8,2,1
+101511,27,MN,S,US,male,4,2,Several times a day,yes,yes,yes,yes,73,4,5,5,1,6,1,2,1
+101004,27,MN,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,55,3,5,3,2,6,1,2,1
+101016,27,MN,S,US,male,4,2,Several times a day,yes,yes,yes,no,67,1,6,3,1,6,2,2,1
+101700,27,MN,S,US,male,4,2,Several times a day,yes,yes,yes,no,66,3,8,3,1,7,1,2,1
+294,27,MN,U,US,male,4,3,~1x a day,yes,yes,yes,no,70,5,7,3,1,99,1,2,1
+101694,28,MS,S,US,male,4,2,Several times a day,yes,yes,yes,yes,69,1,8,3,1,9,2,2,1
+101685,29,MO,U,US,male,4,2,Several times a day,yes,yes,yes,yes,55,1,7,3,1,9,2,2,1
+9,34,NJ,S,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,7,1,1,6,2,2,1
+378,34,NJ,S,US,male,4,2,Several times a day,yes,yes,yes,yes,56,1,4,1,1,7,3,2,1
+100482,34,NJ,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,55,6,6,1,1,9,1,2,1
+100494,34,NJ,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,67,3,6,1,1,6,1,2,1
+100488,36,NY,S,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,5,1,1,8,2,2,1
+101396,36,NY,S,US,male,4,2,Several times a day,yes,yes,yes,yes,56,1,8,1,1,9,2,2,1
+101716,36,NY,S,US,male,4,2,Several times a day,yes,yes,yes,yes,70,1,8,3,1,9,2,2,1
+100047,36,NY,U,US,male,4,2,Several times a day,yes,yes,yes,yes,61,1,6,1,1,8,2,2,1
+101577,36,NY,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,71,1,6,5,7,7,8,2,1
+101717,36,NY,U,US,male,4,2,Several times a day,yes,yes,yes,yes,55,1,7,3,1,9,2,2,1
+200011,36,NY,U,US,male,4,2,Several times a day,yes,yes,yes,yes,69,6,6,3,1,4,3,2,1
+300196,36,NY,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,60,1,7,3,7,8,5,2,1
+100063,36,NY,S,US,male,4,9,Refused,yes,yes,yes,no,61,1,3,1,1,99,2,2,1
+100713,36,NY,S,US,male,4,2,Several times a day,yes,yes,yes,no,56,6,6,1,1,7,1,2,1
+101203,36,NY,S,US,male,4,2,Several times a day,yes,yes,yes,no,56,3,6,1,1,6,1,2,1
+101536,36,NY,S,US,male,4,2,Several times a day,yes,yes,yes,no,58,1,4,1,1,4,5,2,1
+314,36,NY,U,US,male,4,1,Almost constantly,yes,yes,yes,no,64,1,6,5,1,7,2,2,1
+315,36,NY,U,US,male,4,3,~1x a day,yes,yes,yes,no,67,1,8,3,1,9,2,2,1
+101429,37,NC,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,72,1,8,3,1,6,2,2,1
+100828,37,NC,U,US,male,4,3,~1x a day,yes,yes,yes,yes,86,1,4,3,1,7,2,2,1
+100937,37,NC,U,US,male,4,2,Several times a day,yes,yes,yes,yes,56,1,6,4,2,7,4,2,1
+101773,37,NC,S,US,male,4,5,<Several times a week,yes,yes,yes,no,80,1,3,3,1,3,2,2,1
+71,37,NC,U,US,male,4,2,Several times a day,yes,yes,yes,no,77,1,8,2,1,8,3,2,1
+7,39,OH,S,US,male,4,2,Several times a day,yes,yes,yes,yes,80,1,6,3,8,99,2,2,1
+100036,39,OH,S,US,male,4,2,Several times a day,yes,yes,yes,yes,61,1,3,1,1,6,2,2,1
+100708,39,OH,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,64,1,4,3,1,98,2,2,1
+101324,39,OH,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,65,1,6,1,1,9,2,2,1
+101387,39,OH,S,US,male,4,2,Several times a day,yes,yes,yes,yes,59,3,5,3,1,8,1,2,1
+101582,39,OH,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,55,1,6,1,1,9,3,2,1
+100132,39,OH,U,US,male,4,2,Several times a day,yes,yes,yes,yes,56,1,6,1,1,8,6,2,1
+100062,39,OH,S,US,male,4,2,Several times a day,yes,yes,yes,no,74,1,6,2,1,8,1,2,1
+101229,39,OH,S,US,male,4,2,Several times a day,yes,yes,yes,no,61,3,3,6,1,2,1,2,1
+100362,40,OK,S,US,male,4,2,Several times a day,yes,yes,yes,yes,60,1,5,1,1,8,3,2,1
+334,40,OK,S,US,male,4,4,Several times a week,yes,yes,yes,no,70,1,7,3,1,2,1,2,1
+100210,41,OR,S,US,male,4,3,~1x a day,yes,yes,yes,yes,63,1,5,1,2,8,2,2,1
+101308,41,OR,S,US,male,4,2,Several times a day,yes,yes,yes,yes,60,2,7,3,1,8,2,2,1
+43,42,PA,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,71,1,6,3,1,9,2,2,1
+101094,42,PA,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,66,3,7,1,1,9,1,2,1
+101725,42,PA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,64,1,6,3,1,3,2,2,1
+101559,44,RI,U,US,male,4,2,Several times a day,yes,yes,yes,yes,55,1,3,1,1,7,2,2,1
+101277,45,SC,U,US,male,4,2,Several times a day,yes,yes,yes,yes,62,1,6,1,1,8,2,2,1
+100106,46,SD,S,US,male,4,2,Several times a day,yes,yes,yes,yes,73,1,3,3,1,8,2,2,1
+347,47,TN,S,US,male,4,2,Several times a day,yes,yes,yes,yes,60,6,7,5,1,99,1,2,1
+101224,47,TN,U,US,male,4,2,Several times a day,yes,yes,yes,yes,56,1,4,1,1,8,3,2,1
+209,47,TN,S,US,male,4,2,Several times a day,yes,yes,yes,no,77,1,8,3,1,9,2,2,1
+100942,47,TN,U,US,male,4,2,Several times a day,yes,yes,yes,no,78,2,8,3,1,8,2,2,1
+100687,48,TX,S,US,male,4,2,Several times a day,yes,yes,yes,yes,69,1,7,3,1,8,2,3,1
+101017,48,TX,S,US,male,4,4,Several times a week,yes,yes,yes,yes,72,1,4,1,1,8,2,2,1
+34,48,TX,U,US,male,4,2,Several times a day,yes,yes,yes,yes,61,1,7,1,1,8,2,2,1
+127,48,TX,U,US,male,4,2,Several times a day,yes,yes,yes,yes,65,1,6,3,2,3,5,2,1
+100226,48,TX,U,US,male,4,2,Several times a day,yes,yes,yes,yes,70,1,4,3,7,6,2,2,1
+101686,48,TX,U,US,male,4,2,Several times a day,yes,yes,yes,yes,59,1,6,1,1,6,3,2,1
+300100,48,TX,U,US,male,4,1,Almost constantly,yes,yes,yes,yes,61,1,3,1,1,9,2,2,1
+100372,48,TX,S,US,male,4,1,Almost constantly,yes,yes,yes,no,58,1,7,1,1,9,3,2,1
+100836,48,TX,U,US,male,4,2,Several times a day,yes,yes,yes,no,73,1,6,3,1,7,2,2,1
+100201,49,UT,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,59,6,6,1,1,8,1,2,1
+101451,49,UT,S,US,male,4,2,Several times a day,yes,yes,yes,yes,61,1,3,5,1,9,2,2,1
+100206,49,UT,S,US,male,4,2,Several times a day,yes,yes,yes,no,75,1,7,3,1,9,2,3,1
+100044,51,VA,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,61,1,6,1,1,9,4,2,1
+100269,51,VA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,56,4,4,3,1,7,4,3,1
+100842,51,VA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,60,1,7,3,1,9,4,2,1
+100004,51,VA,S,US,male,4,2,Several times a day,yes,yes,yes,no,61,4,4,2,1,2,2,2,1
+100296,51,VA,S,US,male,4,3,~1x a day,yes,yes,yes,no,79,1,6,3,1,6,2,2,1
+100814,51,VA,S,US,male,4,2,Several times a day,yes,yes,yes,no,59,1,7,1,1,8,2,2,1
+101227,51,VA,S,US,male,4,2,Several times a day,yes,yes,yes,no,72,1,7,3,1,7,2,2,1
+100092,51,VA,U,US,male,4,1,Almost constantly,yes,yes,yes,no,70,4,2,3,1,4,2,2,1
+249,53,WA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,59,1,4,3,1,7,3,2,1
+101053,53,WA,S,US,male,4,3,~1x a day,yes,yes,yes,yes,64,1,3,3,1,7,2,2,1
+101417,53,WA,S,US,male,4,1,Almost constantly,yes,yes,yes,yes,63,3,5,1,1,3,2,2,1
+101608,53,WA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,70,1,7,3,1,8,2,2,1
+101653,53,WA,S,US,male,4,2,Several times a day,yes,yes,yes,yes,69,1,6,3,1,7,2,2,1
