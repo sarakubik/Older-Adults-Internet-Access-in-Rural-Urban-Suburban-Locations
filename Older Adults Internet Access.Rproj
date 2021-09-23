@@ -1,13 +1,65 @@
-Version: 1.0
+library(janitor)
+library(skimr)
+library(vtree) #this is for variable trees (look like decision trees)
+# and I watched this video https://www.infoworld.com/video/104862/how-to-create-crosstab-reports-in-r
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+#install.packages("CGPfunctions")
+library(CGPfunctions)
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
+#import the data and look at the first six rows
+trends<- read.csv(file = '55 and up 9-21-2021.csv')
+head(trends)
+colnames(trends)
 
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+#What is the gender breakdown for urb v rural and in a pipe to get percentage
+# otherwise you will get a count in the crosstab
+tabyl(trends, gender, urbsurb_rural) %>% 
+  adorn_percentages("col") %>% 
+  adorn_totals(where = "row") %>% 
+  adorn_pct_formatting(digits = 1)
+
+
+CGPfunctions::PlotXTabs2(trends, urbsurb_rural,gender, results.subtitle = FALSE)
+
+tabyl(trends, computer, urbsurb_rural) %>% 
+  adorn_percentages("col") %>% 
+  adorn_totals(where = "row") %>% 
+  adorn_pct_formatting(digits = 1)
+CGPfunctions::PlotXTabs2(trends, urbsurb_rural,computer, results.subtitle = FALSE)
+
+tabyl(trends, smartphone, urbsurb_rural) %>% 
+  adorn_percentages("col") %>% 
+  adorn_totals(where = "row") %>% 
+  adorn_pct_formatting(digits = 1)
+CGPfunctions::PlotXTabs2(trends, urbsurb_rural,smartphone, results.subtitle = FALSE)
+
+tabyl(trends, both_sp_and_comp, urbsurb_rural) %>% 
+  adorn_percentages("col") %>% 
+  adorn_totals(where = "row") %>% 
+  adorn_pct_formatting(digits = 1)
+CGPfunctions::PlotXTabs2(trends, urbsurb_rural,both_sp_and_comp, results.subtitle = FALSE)
+
+tabyl(trends, tablet, urbsurb_rural) %>% 
+  adorn_percentages("col") %>% 
+  adorn_totals(where = "row") %>% 
+  adorn_pct_formatting(digits = 1)
+CGPfunctions::PlotXTabs2(trends, urbsurb_rural,tablet, results.subtitle = FALSE)
+
+tabyl(trends, Use_of_Internet, urbsurb_rural) %>% 
+  adorn_percentages("col") %>% 
+  adorn_totals(where = "row") %>% 
+  adorn_pct_formatting(digits = 1)
+CGPfunctions::PlotXTabs2(trends, urbsurb_rural,Use_of_Internet, results.subtitle = FALSE)
+
+# CGPfunctions::PlotXTabs(trends, urbsurb_rural,gender)   this returns a count
+tabyl(trends, computer, urbsurb_rural) %>% 
+  adorn_totals(where = "row")
+CGPfunctions::PlotXTabs(trends, urbsurb_rural,computer)
+
+tabyl(trends, smartphone, urbsurb_rural) %>% 
+  adorn_totals(where = "row")
+CGPfunctions::PlotXTabs(trends, urbsurb_rural,smartphone)
+
+tabyl(trends, both_sp_and_comp, urbsurb_rural) %>% 
+  adorn_totals(where = "row")
+CGPfunctions::PlotXTabs(trends, urbsurb_rural,both_sp_and_comp)
